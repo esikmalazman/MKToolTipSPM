@@ -1,6 +1,6 @@
 [![Languages](https://img.shields.io/badge/language-swift%204.2%20|%20objc-FF69B4.svg?style=plastic)](#) <br/>
 
-Description [SPM Version of MKToolTip - https://github.com/metinkilicaslan/MKToolTip]
+Description 
 --------------
 
 ```MKToolTip``` is a customizable tooltip view written in Swift that can be used as a informative tip inside your both Swift and Objective-C projects.
