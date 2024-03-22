@@ -18,7 +18,8 @@ let package = Package(
         .target(
             name: "MKToolTip"),
         .testTarget(
-            name: "MKToolTipSPMTests",
+            name: "MKToolTipSPMTests",  
             dependencies: ["MKToolTip"]),
-    ]
+    ],
+    swiftLanguageVersions: [.v5]
 )
